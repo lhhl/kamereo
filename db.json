@@ -2,28 +2,34 @@
   "stores":[
     {
       "id": 1,
-      "store_info": {
+      "name": "K.O.I The.",
+      "address": "521 Ho Tung Mau",
+      "district": "D1",
+      "city": "HCM",
+      "phone": "(338) 886-9944",
+      "logoUrl": "",
+      "redInvoice": {
         "name": "K.O.I The.",
         "address": "521 Ho Tung Mau, D1, HCM",
-        "phone": "(338) 886-9944"
-      },
-      "red_invoice_info": {
-        "name": "K.O.I The.",
-        "address": "521 Ho Tung Mau, D1, HCM",
-        "phone": "(338) 886-9944"
+        "district": "D1",
+        "city": "HCM",
+        "taxCode": "P12345"
       }
     },
     {
       "id": 2,
-      "store_info": {
+      "name": "Royal Tea",
+      "address": "12 Thong Nhat",
+      "district": "Thu Duc",
+      "city": "HCM",
+      "phone": "(338) 112-5944",
+      "logoUrl": "",
+      "redInvoice": {
         "name": "Royal Tea",
-        "address": "81 Thong Nhat, Thu Duc, HCM",
-        "phone": "(123) 776-9944"
-      },
-      "red_invoice_info": {
-        "name": "Royal Tea",
-        "address": "81 Thong Nhat, Thu Duc, HCM",
-        "phone": "(123) 776-9944"
+        "address": "12 Thong Nhat",
+        "district": "Thu Duc",
+        "city": "HCM",
+        "taxCode": "P1476"
       }
     }
   ]
